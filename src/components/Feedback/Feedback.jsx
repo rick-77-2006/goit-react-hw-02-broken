@@ -13,5 +13,4 @@ const Feedback = ({ good, neutral, bad, totalFeedback, positiveRatio }) => {
     </div>
   );
 };
-
 export default Feedback;
